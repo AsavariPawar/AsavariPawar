@@ -2,7 +2,7 @@
 
 ### 🤖 Computer Science undergraduate | AI&ML | Web Development | Computer Vision | Image Processing
 
-I'm a Computer Science student interested in **Artificial Intelligence and Machine Learning**, with a focus on **Computer Vision, Image Processing, NLP, and AI applications**. I also enjoy exploring **Web Development** and building practical projects.
+I'm a CSE student interested in **Artificial Intelligence and Machine Learning**, with a focus on **Computer Vision, Image Processing, NLP, and AI applications**. I also enjoy exploring **Web Development** and building practical projects.
 
 ---
 
@@ -12,7 +12,6 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 - 👁️ Interested in Computer Vision
 - 🌐 Exploring Web Development
 - 🖼️ Interested in Image Processing
-- 💬 Exploring Natural Language Processing (NLP)
 - ✨ Exploring Generative AI
 - 💻 Practicing DSA and problem solving
 - 🚀 Building projects to improve my technical skills
@@ -46,8 +45,6 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-- Image Processing
-- Computer Vision
 - Image Classification
 - Object Detection
 - Feature Extraction
@@ -85,7 +82,8 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 - 🏠 House Price Prediction
 - 🚗 Ford Car Price Prediction
 - 🍱 Hostel Food Waste Prediction
-- 
+
+---
 
 ## 🌱 Currently Learning
 
@@ -93,18 +91,6 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 - Computer Vision
 - Image Processing
 - Data Structures & Algorithms
-
----
-
-## 🎯 Goals
-
-- 🚀 Build real-world AI/ML projects
-- 👁️ Explore Computer Vision and Image Processing
-- 💬 Learn and apply NLP
-- ✨ Explore Generative AI
-- 🌐 Build AI-powered web applications
-- 💻 Improve DSA and problem-solving skills
-- 🤝 Collaborate on interesting projects
 
 ---
 
