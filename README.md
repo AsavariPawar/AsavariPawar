@@ -10,10 +10,10 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 
 - 🤖 AI & Machine Learning student
 - 👁️ Interested in Computer Vision
+- 🌐 Exploring Web Development
 - 🖼️ Interested in Image Processing
 - 💬 Exploring Natural Language Processing (NLP)
 - ✨ Exploring Generative AI
-- 🌐 Exploring Web Development
 - 💻 Practicing DSA and problem solving
 - 🚀 Building projects to improve my technical skills
 
@@ -54,28 +54,16 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 
 ---
 
-
 ### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - HTML
 - CSS
 - Frontend Development
 - Responsive Web Design
-
----
-
-### 📊 Data Science
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-- Data Preprocessing
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
 
 ---
 
@@ -110,21 +98,10 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 
 ## 🌱 Currently Learning
 
-- Machine Learning
 - Deep Learning
 - Computer Vision
 - Image Processing
-- NLP
-- Generative AI
 - Data Structures & Algorithms
-
----
-
-## 💼 Currently Doing
-
-### 🔬 Internship in Image Processing
-
-Currently doing an **internship focused on Image Processing**, gaining practical experience and working on real-world applications.
 
 ---
 
