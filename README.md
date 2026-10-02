@@ -54,14 +54,6 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 
 ---
 
-### 💬 NLP
-
-- Natural Language Processing
-- Text Processing
-- Text Classification
-- NLP Applications
-
----
 
 ### 🌐 Web Development
 
@@ -87,26 +79,12 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 
 ---
 
-### 🧩 DSA
-
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Graphs
-- Recursion
-
----
-
 ### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
@@ -125,8 +103,8 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 - Computer Vision Projects
 
 ### 🌐 Web Development
+- Smart food planner app
 - HTML & CSS Projects
-- Frontend Practice Projects
 
 ---
 
@@ -138,7 +116,6 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 - Image Processing
 - NLP
 - Generative AI
-- Web Development
 - Data Structures & Algorithms
 
 ---
