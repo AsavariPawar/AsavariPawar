@@ -1,21 +1,21 @@
 # Hi, I'm Asavari Pawar 👋
 
-### 🤖 AI & Machine Learning | 🌐 Frontend Development
+### 🤖 AI & ML Student | Web Development | Computer Vision | Image Processing
 
-I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning, and Frontend Development**.  
-I enjoy learning new technologies, building projects, and improving my problem-solving skills.
+I'm a Computer Science student interested in **Artificial Intelligence and Machine Learning**, with a focus on **Computer Vision, Image Processing, NLP, and AI applications**. I also enjoy exploring **Web Development** and building practical projects.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🔭 Currently working on **AI/ML and Frontend projects**
-- 🌱 Currently learning **Machine Learning, Deep Learning, and Frontend Development**
-- 👯 Open to collaborating on **AI/ML and Web Development projects**
-- 💬 Ask me about **Python, Machine Learning, and Frontend Development**
-- 📚 Practicing **DSA** for technical interviews
-- 🚀 Building projects to improve my practical skills
-- 🎯 Goal: To grow as an **AI/ML Engineer and Full-Stack Developer**
+- 🤖 AI & Machine Learning student
+- 👁️ Interested in Computer Vision
+- 🖼️ Interested in Image Processing
+- 💬 Exploring Natural Language Processing (NLP)
+- ✨ Exploring Generative AI
+- 🌐 Exploring Web Development
+- 💻 Practicing DSA and problem solving
+- 🚀 Building projects to improve my technical skills
 
 ---
 
@@ -24,9 +24,11 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
 
 ### 🤖 AI & Machine Learning
 
@@ -35,25 +37,72 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 - Machine Learning
-- Data Analysis
-- Computer Vision
+- Deep Learning
 - Generative AI
-- Model Development
-- Model Evaluation
 
-### 🌐 Frontend Development
+---
+
+### 👁️ Computer Vision & Image Processing
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+- Image Processing
+- Computer Vision
+- Image Classification
+- Object Detection
+- Feature Extraction
+
+---
+
+### 💬 NLP
+
+- Natural Language Processing
+- Text Processing
+- Text Classification
+- NLP Applications
+
+---
+
+### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - HTML
 - CSS
-- JavaScript
+- Frontend Development
 - Responsive Web Design
-- UI Development
 
-### 🧰 Tools
+---
+
+### 📊 Data Science
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+- Data Preprocessing
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+---
+
+### 🧩 DSA
+
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Graphs
+- Recursion
+
+---
+
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -66,27 +115,56 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 ## 📂 Projects
 
 ### 🤖 AI & Machine Learning
+- 🌸 Iris Flower Classification
+- 🏠 House Price Prediction
+- 🚗 Ford Car Price Prediction
+- 🍱 Hostel Food Waste Prediction
 
-- 🌸 **Iris Flower Classification**
-- 🏠 **House Price Prediction**
-- 🚗 **Ford Car Price Prediction**
-- 🍱 **Hostel Food Waste Prediction**
+### 👁️ Computer Vision & Image Processing
+- Image Processing Projects
+- Computer Vision Projects
 
-### 🌐 Frontend Development
-
-- 🚧 More projects coming soon...
+### 🌐 Web Development
+- HTML & CSS Projects
+- Frontend Practice Projects
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-```text
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Generative AI
-        ↓
-Frontend Development
-        ↓
-Building AI-powered Web Applications
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Processing
+- NLP
+- Generative AI
+- Web Development
+- Data Structures & Algorithms
+
+---
+
+## 💼 Currently Doing
+
+### 🔬 Internship in Image Processing
+
+Currently doing an **internship focused on Image Processing**, gaining practical experience and working on real-world applications.
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build real-world AI/ML projects
+- 👁️ Explore Computer Vision and Image Processing
+- 💬 Learn and apply NLP
+- ✨ Explore Generative AI
+- 🌐 Build AI-powered web applications
+- 💻 Improve DSA and problem-solving skills
+- 🤝 Collaborate on interesting projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **learning, collaborating, and building projects** related to AI, Machine Learning, Computer Vision, Image Processing, and Web Development.
+
+⭐ Thanks for visiting my profile!
