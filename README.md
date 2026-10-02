@@ -85,16 +85,7 @@ I'm a Computer Science student interested in **Artificial Intelligence and Machi
 - 🏠 House Price Prediction
 - 🚗 Ford Car Price Prediction
 - 🍱 Hostel Food Waste Prediction
-
-### 👁️ Computer Vision & Image Processing
-- Image Processing Projects
-- Computer Vision Projects
-
-### 🌐 Web Development
-- Smart food planner app
-- HTML & CSS Projects
-
----
+- 
 
 ## 🌱 Currently Learning
 
