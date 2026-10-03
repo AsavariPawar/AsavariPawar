@@ -6,21 +6,21 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🤖 AI & Machine Learning student
-- 👁️ Interested in Computer Vision
-- 🌐 Exploring Web Development
-- 🖼️ Interested in Image Processing
-- ✨ Exploring Generative AI
-- 💻 Practicing DSA and problem solving
-- 🚀 Building projects to improve my technical skills
+-  AI & Machine Learning student
+-  Interested in Computer Vision
+-  Exploring Web Development
+-  Interested in Image Processing
+-  Exploring Generative AI
+-  Practicing DSA and problem solving
+-  Building projects to improve my technical skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +29,7 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 
 ---
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -41,7 +41,7 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 
 ---
 
-### 👁️ Computer Vision & Image Processing
+### Computer Vision & Image Processing
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
@@ -51,7 +51,7 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 
 ---
 
-### 🌐 Web Development
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,7 +64,7 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 
 ---
 
-### 🛠️ Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -75,17 +75,17 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🤖 AI & Machine Learning
-- 🌸 Iris Flower Classification
-- 🏠 House Price Prediction
-- 🚗 Ford Car Price Prediction
-- 🍱 Hostel Food Waste Prediction
+### AI & Machine Learning
+- Iris Flower Classification
+- House Price Prediction
+- Ford Car Price Prediction
+- Hostel Food Waste Prediction
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Deep Learning
 - Computer Vision
