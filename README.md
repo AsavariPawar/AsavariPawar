@@ -9,7 +9,7 @@ I'm a CSE student interested in **Artificial Intelligence and Machine Learning**
 ##  About Me
 
 -  AI & Machine Learning student
--  Interested in Computer Vision
+-  Interested in Computer Vision, LLM
 -  Exploring Web Development
 -  Interested in Image Processing
 -  Exploring Generative AI
