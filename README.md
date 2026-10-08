@@ -1,6 +1,6 @@
 # Hi, I'm Asavari Pawar 
 
-### Computer Science undergraduate | AI&ML | Web Development | Computer Vision | Image Processing
+### BE in Computer Science | AI&ML | Web Development | Computer Vision | Image Processing
 
 I'm a CSE student interested in **Artificial Intelligence and Machine Learning**, with a focus on **Computer Vision, Image Processing, NLP, and AI applications**. I also enjoy exploring **Web Development** and building practical projects.
 
